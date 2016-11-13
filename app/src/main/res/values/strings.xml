@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">principal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="sean_bienvenidos_a_esta_aplicacion_seleccione_su_opcion">SEAN BIENVENIDOS A ESTA APLICACION SELECCIONE SU OPCION</string>
+</resources>
